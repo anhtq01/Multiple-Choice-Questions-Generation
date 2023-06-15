@@ -1,4 +1,4 @@
-# Question-Answer-Generation
+# Vietnamese Multiple Choice Questions Generation
 
 This project aims to generate multiple-choice questions in Vietnamese using the mT5 (Multilingual T5) transformer model. The project consists of two models: the first model fine-tunes the mT5 model to generate question-answer pairs from an input paragraph, and the second model takes the output from the first model to generate distractors for multiple-choice questions.
 
